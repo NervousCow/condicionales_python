@@ -30,7 +30,7 @@ else:
 print("Pregunta Nº2")
 respuesta = int(input("¿Cuántas letras tiene la palabra python?\n"))
 
-if respuesta == 5:
+if respuesta == 6:
     # Si la respuesta es correcta
     # aumentar puntaje
     print("¡Muy bien!")

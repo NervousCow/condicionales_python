@@ -47,7 +47,7 @@ if numero_1 > 0 or numero_2 > 0:
 # es mayor o igual a cero
 if numero_1 >= 0 or numero_3 >= 0:
     suma = numero_1 + numero_3
-    print(f'La suma entre {numero_1} y {numero_2} es {suma}')
+    print(f'La suma entre {numero_1} y {numero_3} es {suma}')
 
 # Calcular el producto entre dos números enteros que ambos sean positivos
 # y ambos menores a 100
